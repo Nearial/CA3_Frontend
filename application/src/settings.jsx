@@ -1,1 +1,1 @@
-export const URL = "http://localhost:8080/jpareststarter";
+export const API_URL = "https://newbiz.nicklasnielsen.dk/tomcat/CA3Backend/api";
